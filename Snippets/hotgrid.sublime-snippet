@@ -1,0 +1,84 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "hotgrid",
+	"_classes": "",
+	"_layout": "full",
+	"title": "title",
+	"displayTitle": "title",
+	"body": "body",
+	"instruction": "instruction",
+	"_columns": 3,
+	"_items": [
+		{
+			"title": "title",
+			"body": "title",
+			"_graphic": {
+				"src": "course/en/images/c-xx-1.jpg",
+				"srcHover":"course/en/images/c-xx-1-hover.jpg",
+				"srcVisited":"course/en/images/c-xx-1-visited.jpg",
+				"alt": "alt",
+				"title": "title"
+			},
+			"_itemGraphic": {
+				"src": "course/en/images/c-xx-1.jpg",
+				"alt": "alt"
+			}
+		},
+		{
+			"title": "title",
+			"body": "title",
+			"_graphic": {
+				"src": "course/en/images/c-xx-2.jpg",
+				"srcHover":"course/en/images/c-xx-2-hover.jpg",
+				"srcVisited":"course/en/images/c-xx-2-visited.jpg",
+				"alt": "alt",
+				"title": "title"
+			},
+			"_itemGraphic": {
+				"src": "course/en/images/c-xx-2.jpg",
+				"alt": "alt"
+			}
+		},
+		{
+			"title": "title",
+			"body": "title",
+			"_graphic": {
+				"src": "course/en/images/c-xx-3.jpg",
+				"srcHover":"course/en/images/c-xx-3-hover.jpg",
+				"srcVisited":"course/en/images/c-xx-3-visited.jpg",
+				"alt": "alt",
+				"title": "title"
+			},
+			"_itemGraphic": {
+				"src": "course/en/images/c-xx-3.jpg",
+				"alt": "alt"
+			}
+		},
+		{
+			"title": "title",
+			"body": "title",
+			"_graphic": {
+				"src": "course/en/images/c-xx-4.jpg",
+				"srcHover":"course/en/images/c-xx-4-hover.jpg",
+				"srcVisited":"course/en/images/c-xx-4-visited.jpg",
+				"alt": "alt",
+				"title": "title"
+			},
+			"_itemGraphic": {
+				"src": "course/en/images/c-xx-4.jpg",
+				"alt": "alt"
+			}
+		}
+	],
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>hotgrid</tabTrigger>
+	<scope>source.json</scope>
+</snippet>
