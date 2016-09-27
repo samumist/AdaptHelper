@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[
+{
+    "_id": "componentID",
+    "_parentId":"blockID",
+    "_type":"component",
+    "_component":"reveal",
+    "_classes":"",
+    "_layout":"full",
+    "_direction":"left",
+    "title": "title",
+    "displayTitle": "This is a reveal demo",
+    "body": "",
+    "first": {
+        "src": "course/en/images/c-xx-1.jpg",
+        "alt": "First item",
+        "title": "First item",
+        "body": "Here is the first item",
+        "_maxCharacters": 10,
+        "moreText": "More"
+    },
+    "second": {
+        "src": "course/en/images/c-xx-2.jpg",
+        "alt": "Second item",
+        "title": "Second item",
+        "body": "Here is the second item",
+        "_maxCharacters": 50,
+        "moreText": "More"
+    },
+    "control": {
+        "showText": "Show",
+        "hideText": "Hide"
+    }
+}
+]]></content>
+	<tabTrigger>reveal</tabTrigger>
+	<scope>source.json</scope>
+</snippet>
