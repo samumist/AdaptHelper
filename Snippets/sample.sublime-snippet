@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+/* insert snippet here */
+]]></content>
+	<tabTrigger>trickle</tabTrigger>
+	<scope>source.json</scope>
+</snippet>
