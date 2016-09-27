@@ -1,8 +1,8 @@
 <snippet>
 <content><![CDATA[
 {
-  "_id": "c-05",
-  "_parentId": "b-05",
+  "_id": "componentID",
+  "_parentId": "blockID",
   "_type": "component",
   "_component": "narrativeStrip",
   "_classes": "",
