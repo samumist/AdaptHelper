@@ -10,10 +10,14 @@
 	"body": "body",
 	"pageBody": "pageBody",
 	"_graphic": {
+		"locked": "course/en/images/co-xx-locked.jpg",
 		"src": "course/en/images/contentObjectID.jpg",
 		"alt": ""
 	},
-	"linkText": "View",
+	"linkLockedText": "Locked",
+	"linkText": "Start",
+	"linkVisitedText": "Revisit",
+	"durationLabel": "Duration:",
 	"duration": "xx mins",
 	"_pageLevelProgress": {
 		"_isEnabled": true
