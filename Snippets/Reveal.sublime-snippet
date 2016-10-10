@@ -12,7 +12,7 @@
     "displayTitle": "This is a reveal demo",
     "body": "",
     "first": {
-        "src": "course/en/images/c-xx-1.jpg",
+        "src": "course/en/images/componentID-1.jpg",
         "alt": "First item",
         "title": "First item",
         "body": "Here is the first item",
@@ -20,7 +20,7 @@
         "moreText": "More"
     },
     "second": {
-        "src": "course/en/images/c-xx-2.jpg",
+        "src": "course/en/images/componentID-2.jpg",
         "alt": "Second item",
         "title": "Second item",
         "body": "Here is the second item",

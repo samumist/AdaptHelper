@@ -17,14 +17,14 @@
 			"title": "title",
 			"body": "title",
 			"_graphic": {
-				"src": "course/en/images/c-xx-1.jpg",
-				"srcHover":"course/en/images/c-xx-1-hover.jpg",
-				"srcVisited":"course/en/images/c-xx-1-visited.jpg",
+				"src": "course/en/images/componentID-1.jpg",
+				"srcHover":"course/en/images/componentID-1-hover.jpg",
+				"srcVisited":"course/en/images/componentID-1-visited.jpg",
 				"alt": "alt",
 				"title": "title"
 			},
 			"_itemGraphic": {
-				"src": "course/en/images/c-xx-1.jpg",
+				"src": "course/en/images/componentID-1.jpg",
 				"alt": "alt"
 			}
 		},
@@ -32,14 +32,14 @@
 			"title": "title",
 			"body": "title",
 			"_graphic": {
-				"src": "course/en/images/c-xx-2.jpg",
-				"srcHover":"course/en/images/c-xx-2-hover.jpg",
-				"srcVisited":"course/en/images/c-xx-2-visited.jpg",
+				"src": "course/en/images/componentID-2.jpg",
+				"srcHover":"course/en/images/componentID-2-hover.jpg",
+				"srcVisited":"course/en/images/componentID-2-visited.jpg",
 				"alt": "alt",
 				"title": "title"
 			},
 			"_itemGraphic": {
-				"src": "course/en/images/c-xx-2.jpg",
+				"src": "course/en/images/componentID-2.jpg",
 				"alt": "alt"
 			}
 		},
@@ -47,14 +47,14 @@
 			"title": "title",
 			"body": "title",
 			"_graphic": {
-				"src": "course/en/images/c-xx-3.jpg",
-				"srcHover":"course/en/images/c-xx-3-hover.jpg",
-				"srcVisited":"course/en/images/c-xx-3-visited.jpg",
+				"src": "course/en/images/componentID-3.jpg",
+				"srcHover":"course/en/images/componentID-3-hover.jpg",
+				"srcVisited":"course/en/images/componentID-3-visited.jpg",
 				"alt": "alt",
 				"title": "title"
 			},
 			"_itemGraphic": {
-				"src": "course/en/images/c-xx-3.jpg",
+				"src": "course/en/images/componentID-3.jpg",
 				"alt": "alt"
 			}
 		},
@@ -62,14 +62,14 @@
 			"title": "title",
 			"body": "title",
 			"_graphic": {
-				"src": "course/en/images/c-xx-4.jpg",
-				"srcHover":"course/en/images/c-xx-4-hover.jpg",
-				"srcVisited":"course/en/images/c-xx-4-visited.jpg",
+				"src": "course/en/images/componentID-4.jpg",
+				"srcHover":"course/en/images/componentID-4-hover.jpg",
+				"srcVisited":"course/en/images/componentID-4-visited.jpg",
 				"alt": "alt",
 				"title": "title"
 			},
 			"_itemGraphic": {
-				"src": "course/en/images/c-xx-4.jpg",
+				"src": "course/en/images/componentID-4.jpg",
 				"alt": "alt"
 			}
 		}

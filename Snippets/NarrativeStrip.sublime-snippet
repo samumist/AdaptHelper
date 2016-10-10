@@ -14,19 +14,19 @@
   "_images": [
   {
     "_id": 1,
-    "src": "course/en/images/test-one.jpg"
+    "src": "course/en/images/componentID-1.jpg"
   },
   {
     "_id": 2,
-    "src": "course/en/images/test-two.jpg"
+    "src": "course/en/images/componentID-2.jpg"
   },
   {
     "_id": 3,
-    "src": "course/en/images/test-three.jpg"
+    "src": "course/en/images/componentID-3.jpg"
   },
   {
     "_id": 4,
-    "src": "course/en/images/test-four.jpg"
+    "src": "course/en/images/componentID-4.jpg"
   }
   ],
   "_items": [

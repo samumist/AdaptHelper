@@ -10,7 +10,7 @@
 	"body": "body",
 	"pageBody": "pageBody",
 	"_graphic": {
-		"locked": "course/en/images/co-xx-locked.jpg",
+		"locked": "course/en/images/contentObjectID-locked.jpg",
 		"src": "course/en/images/contentObjectID.jpg",
 		"alt": ""
 	},
@@ -19,6 +19,8 @@
 	"linkVisitedText": "Revisit",
 	"durationLabel": "Duration:",
 	"duration": "xx mins",
+	"footer": "Open course sponsored by ELF."
+	"footerIcon": "icon-heart",
 	"_pageLevelProgress": {
 		"_isEnabled": true
 	}
