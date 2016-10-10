@@ -19,7 +19,7 @@
 	"linkVisitedText": "Revisit",
 	"durationLabel": "Duration:",
 	"duration": "xx mins",
-	"footer": "Open course sponsored by ELF."
+	"footer": "Open course sponsored by ELF.",
 	"footerIcon": "icon-heart",
 	"_pageLevelProgress": {
 		"_isEnabled": true
