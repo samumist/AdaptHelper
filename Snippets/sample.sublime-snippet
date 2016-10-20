@@ -1,7 +1,14 @@
 <snippet>
 	<content><![CDATA[
-/* insert snippet here */
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
 ]]></content>
-	<tabTrigger>trickle</tabTrigger>
+	<tabTrigger>text</tabTrigger>
 	<scope>source.json</scope>
 </snippet>
