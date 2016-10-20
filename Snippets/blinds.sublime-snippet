@@ -1,0 +1,77 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "blinds",
+	"_classes": "",
+	"_layout": "full",
+	"title": "Blinds",
+	"displayTitle": "Superheroes",
+	"body": "This is an example of Dan's fantastic new adapt-blinds component",
+	"height": 400,
+	"expandBy":2.8,
+	"captionDelay": 600,
+	"_items": [
+		{
+			"backgroundImage": "course/en/images/componentID-1.jpg",
+			"captions": [
+				{
+					"text": "Each image can display optional captions."
+				}
+			]
+		},
+		{
+			"backgroundImage": "course/en/images/componentID-2.jpg",
+			"captions": [
+				{
+					"text": "You can have more than one caption..."
+				},
+				{
+					"text": "...just like this"
+				}
+			]
+		},
+		{
+			"backgroundImage": "course/en/images/componentID-3.jpg",
+			"captions": [
+				{
+					"text": "You can even set the position and width yourself..."
+				},
+				{
+					"text": "...like this...",
+					"top": 100,
+					"left": "60%",
+					"width": "50%"
+				},
+				{
+					"text": "...and this.",
+					"left": 30,
+					"width": 230
+				}
+			]
+		},
+		{
+			"backgroundImage": "course/en/images/componentID-4.jpg",
+			"captions": [
+				{
+					"text": "Like I said, captions are optional."
+				},
+				{
+					"text": "Captain America doesn't say much"
+				}
+			]
+		},
+		{
+			"backgroundImage": "course/en/images/componentID-5.jpg"
+		}
+	],
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>blinds</tabTrigger>
+	<scope>source.json</scope>
+</snippet>

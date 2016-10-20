@@ -1,0 +1,53 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+    "_component": "backgroundScroll",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Background Scroll",
+    "displayTitle": "",
+    "body": "",
+	"instruction": "",
+    "_items": [
+        {
+            "image": "course/en/images/backgrounds/componentID-1.jpg",
+            "title": "The Background Scroll Component",
+            "body": "This component is great for using when you have high quality HD images to work with."
+        },
+        {
+            "image": "course/en/images/backgrounds/componentID-2.jpg",
+            "title": "Single Component - Multiple Backgrounds",
+            "body": "Each item has its own background image, title and description."
+        },
+        {
+            "image": "course/en/images/backgrounds/componentID-3.jpg",
+            "title": "",
+            "body": "Titles are optional so you can just display a paragraph of text if preferred."
+        },
+        {
+            "image": "course/en/images/backgrounds/componentID-4.jpg",
+            "title": "Feel more connected",
+            "body": "The image fades are determined by your scroll position rather than being a triggered animation, making the transition feel more connected with the learner's interaction."
+        },
+        {
+            "image": "course/en/images/backgrounds/componentID-5.jpg",
+            "title": "Completing the Component",
+            "body": "There is a timer on each item to make sure the learner cannot complete the component simply by scrolling to the bottom instantly."
+        },
+        {
+            "image": "course/en/images/backgrounds/componentID-6.jpg",
+            "title": "Make an Impact",
+            "body": "Get your learner's attention using high quality images with the Background Scroll component."
+        }
+    ],
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>backgroundscroll</tabTrigger>
+	<scope>source.json</scope>
+</snippet>

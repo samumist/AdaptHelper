@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "html",
+	"_classes": "",
+	"_layout": "full",
+	"title": "HTML - Default Template Basic",
+	"displayTitle": "HTML - Default Template Basic",
+	"body": "",
+	"_items": [
+		"If you do not specify a template then the component will use its supplied default.",
+		"There's lot that can be accomplished using the default template.",
+		"In its most basic form it will render an array of \"_items\" into individual elements with a class of .html-item which can then be styled as you choose.",
+		"Each item is also given a class of .nth-child-n according to its index.",
+		"So you can style each item independently."
+	],
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>html-default</tabTrigger>
+	<scope>source.json</scope>
+</snippet>

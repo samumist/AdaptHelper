@@ -1,0 +1,42 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "draganddrop",
+	"_classes": "",
+	"_layout": "full",
+	"_attempts": 1,
+	"_questionWeight": 1,
+	"title": "Superhero Colours",
+	"displayTitle": "Colourful Characters",
+	"body": "Do you know what colour these well-known superheroes are? Drag the items below into the correct slots",
+	"instruction": "",
+	"_background" : "",
+	"_items": [
+		{
+			"_text": "What colour is The Hulk?",
+			"_accepted": "Green"
+		},
+		{
+			"_text": "What colour is Spiderman?",
+			"_accepted": ["Red", "Blue"]
+		},
+		{
+			"_text": "What colour is Wolverine?",
+			"_accepted": "Yellow"
+		}
+
+	],
+	"dummyAnswers": ["Black", "Brown"],
+	"animationTime": 800,
+	"animationDelay": 100,
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>draganddrop</tabTrigger>
+	<scope>source.json</scope>
+</snippet>

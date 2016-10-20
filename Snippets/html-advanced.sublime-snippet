@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "html",
+	"_classes": "",
+	"_layout": "full",
+	"title": "HTML - Default Template Advanced",
+	"displayTitle": "HTML - Default Template Advanced",
+	"body": "",
+	"_items": [
+		"You can also specify an object as one of the \"_items\" which will render each of its properties into a separate element with a class .html-item-{{property}}. This is useful for rendering multiple items each with different elements or sections.",
+		{
+			"title": "Item 1",
+			"description": "Using the _id of the component and the nth-child classes you can apply custom styling to each item and property."
+		},
+		{
+			"title": "Item 2",
+			"description": "In this component for example, the title of each item is assigned a class of .html-item-title."
+		},
+		{
+			"title": "Item 3",
+			"description": "And each description property is rendered into an element with a class of .html-item-description"
+		},
+		{
+			"title": "Item 4",
+			"description": "These items only have two properties, title and description, but there is no limit to the number you can have."
+		}
+	],
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>html-advanced</tabTrigger>
+	<scope>source.json</scope>
+</snippet>

@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "stacklist",
+	"_classes": "",
+	"_layout": "full",
+	"title": "Stacklist",
+	"displayTitle": "Stacklist",
+	"body": "",
+	"instruction": "",
+	"_items": [
+		"This component is useful for making boring text lists that little bit more interactive.",
+		"List items slide in from alternating sides.",
+		"There is no limit to the number of items you can have.",
+		"Although if you have too many it will be a bit boring.",
+		"At least now you get the gist of how this works.",
+		"That's pretty much it."
+	],
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>stacklist</tabTrigger>
+	<scope>source.json</scope>
+</snippet>

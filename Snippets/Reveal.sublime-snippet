@@ -1,36 +1,45 @@
 <snippet>
 	<content><![CDATA[
 {
-    "_id": "componentID",
-    "_parentId":"blockID",
-    "_type":"component",
-    "_component":"reveal",
-    "_classes":"",
-    "_layout":"full",
-    "_direction":"left",
-    "title": "title",
-    "displayTitle": "This is a reveal demo",
-    "body": "",
-    "first": {
-        "src": "course/en/images/componentID-1.jpg",
-        "alt": "First item",
-        "title": "First item",
-        "body": "Here is the first item",
-        "_maxCharacters": 10,
-        "moreText": "More"
-    },
-    "second": {
-        "src": "course/en/images/componentID-2.jpg",
-        "alt": "Second item",
-        "title": "Second item",
-        "body": "Here is the second item",
-        "_maxCharacters": 50,
-        "moreText": "More"
-    },
-    "control": {
-        "showText": "Show",
-        "hideText": "Hide"
-    }
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "reveal",
+	"_classes": "",
+	"_layout": "full",
+	"title": "Reveal",
+	"displayTitle": "Reveal",
+	"body": "",
+	"instruction": "Click each item to remove the front cover and display the content underneath. Clicking again will restore the item to its original state.",
+	"_columns" : 3,
+	"_animationType": "shrink",
+	"_items": [
+		{
+			"front": "How versatile am I?",
+			"back": {
+				"title": "Titles are optional",
+				"body": "You can have text or images as content and can pick from a range of different animations"
+			}
+		},
+		{
+			"front": "?",
+			"back": {
+				"title": "Default Settings",
+				"body": "By default the front cover will display a question mark and will fade out when clicked"
+			}
+		},
+		{
+			"front": "Animations",
+			"back": {
+				"title": "This is the \"shrink\" animation",
+				"body": "You can also choose various slide and flip animations. Click the link below to find out more"
+			}
+		}
+
+	],
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
 }
 ]]></content>
 	<tabTrigger>reveal</tabTrigger>
