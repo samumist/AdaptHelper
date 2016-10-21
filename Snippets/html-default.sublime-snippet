@@ -5,7 +5,7 @@
 	"_parentId": "blockID",
 	"_type": "component",
 	"_component": "html",
-	"_classes": "",
+	"_classes": "html-default",
 	"_layout": "full",
 	"title": "HTML - Default Template Basic",
 	"displayTitle": "HTML - Default Template Basic",
