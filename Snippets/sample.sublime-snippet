@@ -9,6 +9,6 @@
 	}
 }
 ]]></content>
-	<tabTrigger>text</tabTrigger>
+	<tabTrigger>sample</tabTrigger>
 	<scope>source.json</scope>
 </snippet>
