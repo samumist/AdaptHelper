@@ -16,16 +16,16 @@
 	"_background" : "",
 	"_items": [
 		{
-			"_text": "What colour is The Hulk?",
-			"_accepted": "Green"
+			"text": "What colour is The Hulk?",
+			"accepted": "Green"
 		},
 		{
-			"_text": "What colour is Spiderman?",
-			"_accepted": ["Red", "Blue"]
+			"text": "What colour is Spiderman?",
+			"accepted": ["Red", "Blue"]
 		},
 		{
-			"_text": "What colour is Wolverine?",
-			"_accepted": "Yellow"
+			"text": "What colour is Wolverine?",
+			"accepted": "Yellow"
 		}
 	],
 	"dummyAnswers": ["Black", "Brown"],

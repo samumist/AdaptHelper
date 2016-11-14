@@ -41,6 +41,7 @@
 			"title": "Head",
 			"body": "Some text about your head",
 			"_isInfoBoxShown": true,
+			"_comment": "_infoType notify or infobox"
 			"_infoType": "infobox",
 			"alt": "Head"
 		},
@@ -51,6 +52,7 @@
 			"title": "Heart",
 			"body": "Some text about your heart",
 			"_isInfoBoxShown": true,
+			"_comment": "_infoType notify or infobox"
 			"_infoType": "infobox",
 			"alt": "Heart"
 		},
@@ -61,6 +63,7 @@
 			"title": "Hand",
 			"body": "Some text about your hand",
 			"_isInfoBoxShown": true,
+			"_comment": "_infoType notify or infobox"
 			"_infoType": "infobox",
 			"alt": "Hand"
 		}

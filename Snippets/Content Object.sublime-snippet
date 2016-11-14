@@ -3,6 +3,7 @@
 {
 	"_id": "contentObjectID",
 	"_parentId": "parentID",
+	"_comment": "_type: page | menu",
 	"_type": "type",
 	"_classes": "",
 	"title": "title",
@@ -17,8 +18,9 @@
 	"linkLockedText": "Locked",
 	"linkText": "Start",
 	"linkVisitedText": "Revisit",
-	"durationLabel": "Duration:",
 	"duration": "xx mins",
+	"_comment": "_lockType: sequential | unlockFirst | lockLast | custom",
+	"_lockType": "",
 	"_pageLevelProgress": {
 		"_isEnabled": true
 	}
