@@ -4,11 +4,11 @@
 	"_id": "componentID",
 	"_parentId": "blockID",
 	"_type": "component",
-	"_component": "reveal",
+	"_component": "expose",
 	"_classes": "",
 	"_layout": "full",
 	"title": "Reveal",
-	"displayTitle": "Reveal",
+	"displayTitle": "Expose",
 	"body": "",
 	"instruction": "Click each item to remove the front cover and display the content underneath. Clicking again will restore the item to its original state.",
 	"_columns" : 3,
@@ -41,6 +41,6 @@
 	}
 }
 ]]></content>
-	<tabTrigger>reveal</tabTrigger>
+	<tabTrigger>expose</tabTrigger>
 	<scope>source.json</scope>
 </snippet>
