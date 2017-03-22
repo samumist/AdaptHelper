@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "character-text",
+	"_classes": "",
+	"_layout": "full",
+	"title": "Character Text",
+	"displayTitle": "",
+	"body": "",
+	"instruction": "",
+	"_text": {
+		"body": "",
+		"bodyReduced": "",
+		"_location": "left",
+		"_top": 125,
+		"_left": 15,
+		"_width": 30,
+		"_borderWidth":0,
+		"_cornerRadius":10
+	},
+	"_graphic": {
+		"_location": "right",
+		"alt": "alt text",
+		"large": "course/en/images/componentID.png",
+		"medium": "course/en/images/componentID-m.png",
+		"small": "course/en/images/componentID-s.png"
+	},
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>charactertext</tabTrigger>
+	<scope>source.json</scope>
+</snippet>
