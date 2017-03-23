@@ -18,8 +18,12 @@
 		"_top": 125,
 		"_left": 15,
 		"_width": 30,
-		"_borderWidth":0,
-		"_cornerRadius":10
+		"_borderWidth":5,
+		"_borderStyle": "solid",
+		"_cornerRadius":10,
+		"_fontSize": 18,
+		"_textAlign": "left",
+		"_textColor": ""
 	},
 	"_graphic": {
 		"_location": "right",
