@@ -16,15 +16,15 @@
 	"_items": [
 		{
 			"src": "course/en/images/componentID-1.jpg",
-			"captions": [
+			"_captions": [
 				{
-					"text": "Each image can display optional captions."
+					"text": "Each image can display optional _captions."
 				}
 			]
 		},
 		{
 			"src": "course/en/images/componentID-2.jpg",
-			"captions": [
+			"_captions": [
 				{
 					"text": "You can have more than one caption..."
 				},
@@ -35,7 +35,7 @@
 		},
 		{
 			"src": "course/en/images/componentID-3.jpg",
-			"captions": [
+			"_captions": [
 				{
 					"text": "You can even set the position and width yourself..."
 				},
@@ -54,9 +54,9 @@
 		},
 		{
 			"src": "course/en/images/componentID-4.jpg",
-			"captions": [
+			"_captions": [
 				{
-					"text": "Like I said, captions are optional."
+					"text": "Like I said, _captions are optional."
 				},
 				{
 					"text": "Captain America doesn't say much"
