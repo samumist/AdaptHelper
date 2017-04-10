@@ -15,7 +15,7 @@
 	"captionDelay": 600,
 	"_items": [
 		{
-			"backgroundImage": "course/en/images/componentID-1.jpg",
+			"src": "course/en/images/componentID-1.jpg",
 			"captions": [
 				{
 					"text": "Each image can display optional captions."
@@ -23,7 +23,7 @@
 			]
 		},
 		{
-			"backgroundImage": "course/en/images/componentID-2.jpg",
+			"src": "course/en/images/componentID-2.jpg",
 			"captions": [
 				{
 					"text": "You can have more than one caption..."
@@ -34,7 +34,7 @@
 			]
 		},
 		{
-			"backgroundImage": "course/en/images/componentID-3.jpg",
+			"src": "course/en/images/componentID-3.jpg",
 			"captions": [
 				{
 					"text": "You can even set the position and width yourself..."
@@ -53,7 +53,7 @@
 			]
 		},
 		{
-			"backgroundImage": "course/en/images/componentID-4.jpg",
+			"src": "course/en/images/componentID-4.jpg",
 			"captions": [
 				{
 					"text": "Like I said, captions are optional."
@@ -64,7 +64,7 @@
 			]
 		},
 		{
-			"backgroundImage": "course/en/images/componentID-5.jpg"
+			"src": "course/en/images/componentID-5.jpg"
 		}
 	],
 	"_pageLevelProgress": {
