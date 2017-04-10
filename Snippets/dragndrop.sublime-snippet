@@ -1,0 +1,46 @@
+<snippet>
+	<content><![CDATA[
+{
+	"_id": "componentID",
+	"_parentId": "blockID",
+	"_type": "component",
+	"_component": "drapndrop",
+	"_classes": "",
+	"_layout": "full",
+	"_attempts": 1,
+	"_questionWeight": 1,
+	"title": "Superhero Colours",
+	"displayTitle": "Colourful Characters",
+	"body": "Do you know what colour these well-known superheroes are? Drag the items below into the correct slots",
+	"instruction": "",
+	"_items": [
+		{
+			"text": "What colour is The Hulk?",
+			"accepted": "Green"
+		},
+		{
+			"text": "What colour is Spiderman?",
+			"accepted": ["Red", "Blue"]
+		},
+		{
+			"text": "What colour is Wolverine?",
+			"accepted": "Yellow"
+		}
+	],
+	"dummyAnswers": ["Black", "Brown"],
+	"animationTime": 800,
+	"animationDelay": 100,
+	"_feedback": {
+		"correct": "Correct feedback text.<br><br>That’s correct. The first large assessment to consist solely of the multiple choice question type was the Army Alpha test, used from <strong>1917</strong> to evaluate U.S. military recruits in the First World War.<br><br>Source: <a href='http://en.wikipedia.org/wiki/Multiple_choice' target='_blank'>Wikipedia</a><br><br><em>Component facts: <strong>Multiple Choice Questions (or MCQs)</strong> are a tried and tested method for presenting learners with a simple text-based question. Component is either single or spanned.</em>",
+		"_incorrect": {
+			"final": "Incorrect feedback text.<br><br>That’s not right. The first large assessment to consist solely of the multiple choice question type was the Army Alpha test, used from <strong>1917</strong> to evaluate U.S. military recruits in the First World War.<br><br>Source: <a href='http://en.wikipedia.org/wiki/Multiple_choice' target='_blank'>Wikipedia</a><br><br><em>Component facts: <strong>Multiple Choice Questions (or MCQs)</strong> are a tried and tested method for presenting learners with a simple text-based question. Component is either single or spanned.</em>"
+		}
+	},
+	"_pageLevelProgress": {
+		"_isEnabled": true
+	}
+}
+]]></content>
+	<tabTrigger>dragndrop</tabTrigger>
+	<scope>source.json</scope>
+</snippet>
