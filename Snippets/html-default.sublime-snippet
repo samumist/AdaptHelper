@@ -9,7 +9,7 @@
 	"_layout": "full",
 	"title": "HTML - Default Template Basic",
 	"displayTitle": "HTML - Default Template Basic",
-	"body": "",
+	"body":"This component you're reading is a text component. All components take this form of a title and body - except a blank component. However it's important to realise that title and body attributes are not needed. <br><br>Take for instance the media component opposite or below on a smaller device - has no body attribute. Instead of the HTML being rendered Adapt simply doesn't render it. The title attribute is simply a break tag to push the media component level with the opposite component.",
 	"_items": [
 		"If you do not specify a template then the component will use its supplied default.",
 		"There's lot that can be accomplished using the default template.",
