@@ -1,14 +1,14 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 {
-	"_id": "componentID",
-	"_parentId": "blockID",
-	"_type": "component",
-	"_pageLevelProgress": {
-		"_isEnabled": true
-	}
+  "_id": "componentID",
+  "_parentId": "blockID",
+  "_type": "component",
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
 }
 ]]></content>
-	<tabTrigger>sample</tabTrigger>
-	<scope>source.json</scope>
+  <tabTrigger>sample</tabTrigger>
+  <scope>source.json</scope>
 </snippet>
