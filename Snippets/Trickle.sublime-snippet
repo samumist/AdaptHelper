@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-"_trickle": {
-	"_isEnabled": true
-}
-]]></content>
-	<tabTrigger>trickle</tabTrigger>
-	<scope>source.json</scope>
-</snippet>
